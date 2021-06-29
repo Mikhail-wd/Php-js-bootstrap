@@ -1,0 +1,58 @@
+<div id="first-row" class="row py-2 justify-content-center">
+            <div class="col-3 py-2 px-4">
+                <div class ="col background">
+                    <p class="fs-4 text-center mb-auto py-3 fw-bold text-white">Василий</p>
+                </div>
+                <div class ="col bg-themplates-fst">
+                    <p class="fs-4 text-center py-4 px-2 fw-bold bg-text-color-fst">Vuyassa@gmail/com</p>
+                    <p class="fs-4 text-center pb-5 px-2 bg-text-color-fst">Какой-то не понятный текст</p>
+                </div>
+            </div>
+            <div class="col-3 py-2 px-4">
+                <div class ="col bg-themplates-text-snd">
+                    <p class="fs-4 text-center mb-auto py-3 fw-bold text-white">Юля</p>
+                </div>
+                <div class ="col bg-themplates-snd">
+                    <p class="fs-4 text-center py-4 px-2 fw-bold bg-text-color-snd">Vuyassa@gmail/com</p>
+                    <p class="fs-4 text-center pb-5 px-2 bg-text-color-fst">Какой-то не понятный текст. А тут его еще больше, я даже не очень хорошо помню почему.</p>
+                </div>
+            </div>
+            <div class="col-3 py-2 px-4">
+                <div class ="col background">
+                    <p class="fs-4 text-center mb-auto py-3 fw-bold text-white">Константин</p>
+                </div>
+                <div class ="col bg-themplates-fst">
+                    <p class="fs-4 text-center py-4 px-2 fw-bold bg-text-color-fst">Vuyassa@gmail/com</p>
+                    <p class="fs-4 text-center pb-5 px-2 bg-text-color-fst">Я жгу!!!</p>
+                </div>
+            </div>
+
+            <div class="w-100"></div>
+
+            <div id ="second-row" class="col-3 py-2 px-4">
+                <div class ="col background">
+                    <p class="fs-4 text-center mb-auto py-3 fw-bold text-white">Василий</p>
+                </div>
+                <div class ="col bg-themplates-fst">
+                    <p class="fs-4 text-center py-4 px-2 fw-bold bg-text-color-fst">Vuyassa@gmail/com</p>
+                    <p class="fs-4 text-center pb-5 px-2 bg-text-color-fst">Какой-то не понятный текст</p>
+                </div>
+            </div>
+            <div class="col-3 py-2 px-4">
+                <div class ="col bg-themplates-text-snd">
+                    <p class="fs-4 text-center mb-auto py-3 fw-bold text-white">Юля</p>
+                </div>
+                <div class ="col bg-themplates-snd">
+                    <p class="fs-4 text-center py-4 px-2 fw-bold bg-text-color-snd">Vuyassa@gmail/com</p>
+                    <p class="fs-4 text-center pb-5 px-2 bg-text-color-fst">Какой-то не понятный текст. А тут его еще больше, я даже не очень хорошо помню почему.</p>
+                </div>
+            </div>
+            <div class="col-3 py-2 px-4">
+                <div class ="col background">
+                    <p class="fs-4 text-center mb-auto py-3 fw-bold text-white">Константин</p>
+                </div>
+                <div class ="col bg-themplates-fst">
+                    <p class="fs-4 text-center py-4 px-2 fw-bold bg-text-color-fst">Vuyassa@gmail/com</p>
+                    <p class="fs-4 text-center pb-5 px-2 bg-text-color-fst">Я жгу!!!</p>
+                </div>
+            </div>

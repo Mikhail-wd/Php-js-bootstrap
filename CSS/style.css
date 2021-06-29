@@ -1,0 +1,30 @@
+.background {
+    background-color: #2d3136;
+}
+
+.form-control{
+    background-color: #2f3338 !important;
+    border-radius: 5px !important;
+    border-color: #474a4f !important;
+}
+
+.bg-themplates-fst {
+    background-color: #e9eef3;
+}
+
+.bg-text-color-fst {
+    color: #6d737b;
+
+}
+
+.bg-themplates-snd {
+    background-color: #deebdf;
+}
+
+.bg-text-color-snd {
+    color: #58ad52;
+}
+
+.bg-themplates-text-snd {
+    background-color: #58ad52;
+}
